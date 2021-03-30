@@ -1,0 +1,9 @@
+history.txt
+*.m3u8
+*.m3u
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/libraries/R_User_Library.xml
+.vscode/settings.json
